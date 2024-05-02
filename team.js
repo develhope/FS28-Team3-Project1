@@ -1,1 +1,1 @@
-console.log('Ciao!');
+const person = []
