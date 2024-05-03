@@ -1,4 +1,5 @@
-const person = [ {
+const person = [
+  {
     name: "Nunzia",
     surname: "Biele",
     age: 28,
@@ -9,4 +10,5 @@ const person = [ {
     favoriteFilm: "Le pagine della nostra vita",
     favoriteBook: "Your Name",
     petName: "Lucky",
-  },]
+  },
+];
