@@ -3,7 +3,7 @@ const person = [ {
     surname: "Biele",
     age: 28,
     city: "Benevento",
-    hobby: "Drawing",
+    hobby: "Disegno",
     favoriteFood: "Pizza",
     favoriteVideoGame: "Assassin's creed",
     favoriteFilm: "Le pagine della nostra vita",
