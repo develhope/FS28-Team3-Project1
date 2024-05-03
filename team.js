@@ -1,4 +1,3 @@
-
 const person = [
   {
     name: "Maurilio",
@@ -23,6 +22,17 @@ const person = [
     favoriteFilm: "L'ultimo dei moicani",
     favoriteBook: "Il signore delle Mosche",
     petName: "Luna",
+  },
+    {
+    name: "Nunzia",
+    surname: "Biele",
+    age: 28,
+    city: "Benevento",
+    hobby: "Disegno",
+    favoriteFood: "Pizza",
+    favoriteVideoGame: "Assassin's creed",
+    favoriteFilm: "Le pagine della nostra vita",
+    favoriteBook: "Your Name",
+    petName: "Lucky",
   }
 ];
-
