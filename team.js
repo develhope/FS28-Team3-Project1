@@ -1,1 +1,1 @@
-console.log('Non operate su questo branch finché non sarà deciso in live');
+console.log('Non operate su questo branch finché non sarà necessario!')
