@@ -1,4 +1,41 @@
-const person = {
+const person = [
+  {
+    name: "Maurilio",
+    surname: "Valenti",
+    age: 31,
+    city: "Palermo",
+    hobby: "Padel",
+    favoriteFood: "Pasta",
+    favoriteVideoGame: "Fc 24",
+    favoriteFilm: "Django",
+    favoriteBook: "Dieci piccoli indiani",
+    petName: "Kira",
+  },
+  {
+    name: "Samuele",
+    surname: "Berti",
+    age: 21,
+    city: "Manciano",
+    hobby: "Leggere",
+    favoriteFood: "Lasagna",
+    favoriteVideoGame: "Wrc8",
+    favoriteFilm: "L'ultimo dei moicani",
+    favoriteBook: "Il signore delle Mosche",
+    petName: "Luna",
+  },
+    {
+    name: "Nunzia",
+    surname: "Biele",
+    age: 28,
+    city: "Benevento",
+    hobby: "Disegno",
+    favoriteFood: "Pizza",
+    favoriteVideoGame: "Assassin's creed",
+    favoriteFilm: "Le pagine della nostra vita",
+    favoriteBook: "Your Name",
+    petName: "Lucky",
+  },
+   {
   name: "Stanislao",
   surname: "Tufo",
   age: 28,
@@ -9,4 +46,5 @@ const person = {
   favoriteFilm: "MissioImpossibleProtocolloFantasma",
   favoriteBook: "LoScudoDiThalos",
   petName: "Fiocco",
-};
+}
+];
